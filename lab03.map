@@ -1,0 +1,46 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Tue May 09 10:21:34 2023
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x00006a
+     .config_2007_LAB03.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x000038      
+                            0x002007    0x002007      
+            55 out of 2182 program addresses used, program memory utilization is 2%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    DELAY   0x000034    program     static C:\Users\vitor\Sistemas Embarcados\Laboratórios\Laboratório 3\lab03.asm
+                   INICIO   0x000012    program     static C:\Users\vitor\Sistemas Embarcados\Laboratórios\Laboratório 3\lab03.asm
+                     MAIN   0x000024    program     static C:\Users\vitor\Sistemas Embarcados\Laboratórios\Laboratório 3\lab03.asm
+           NOT_PRESSED_BT   0x000028    program     static C:\Users\vitor\Sistemas Embarcados\Laboratórios\Laboratório 3\lab03.asm
+                   OUTINT   0x00000e    program     static C:\Users\vitor\Sistemas Embarcados\Laboratórios\Laboratório 3\lab03.asm
+               PRESSED_BT   0x00002b    program     static C:\Users\vitor\Sistemas Embarcados\Laboratórios\Laboratório 3\lab03.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   OUTINT   0x00000e    program     static C:\Users\vitor\Sistemas Embarcados\Laboratórios\Laboratório 3\lab03.asm
+                   INICIO   0x000012    program     static C:\Users\vitor\Sistemas Embarcados\Laboratórios\Laboratório 3\lab03.asm
+                     MAIN   0x000024    program     static C:\Users\vitor\Sistemas Embarcados\Laboratórios\Laboratório 3\lab03.asm
+           NOT_PRESSED_BT   0x000028    program     static C:\Users\vitor\Sistemas Embarcados\Laboratórios\Laboratório 3\lab03.asm
+               PRESSED_BT   0x00002b    program     static C:\Users\vitor\Sistemas Embarcados\Laboratórios\Laboratório 3\lab03.asm
+                    DELAY   0x000034    program     static C:\Users\vitor\Sistemas Embarcados\Laboratórios\Laboratório 3\lab03.asm
+
+

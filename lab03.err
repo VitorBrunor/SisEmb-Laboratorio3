@@ -1,0 +1,8 @@
+Message[305] C:\USERS\VITOR\SISTEMAS EMBARCADOS\LABORATÛRIOS\LABORATÛRIO 3\LAB03.ASM 31 : Using default destination of 1 (file).
+Message[305] C:\USERS\VITOR\SISTEMAS EMBARCADOS\LABORATÛRIOS\LABORATÛRIO 3\LAB03.ASM 33 : Using default destination of 1 (file).
+Warning[203] C:\USERS\VITOR\SISTEMAS EMBARCADOS\LABORATÛRIOS\LABORATÛRIO 3\LAB03.ASM 37 : Found opcode in column 1. (BSF)
+Message[302] C:\USERS\VITOR\SISTEMAS EMBARCADOS\LABORATÛRIOS\LABORATÛRIO 3\LAB03.ASM 39 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VITOR\SISTEMAS EMBARCADOS\LABORATÛRIOS\LABORATÛRIO 3\LAB03.ASM 41 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VITOR\SISTEMAS EMBARCADOS\LABORATÛRIOS\LABORATÛRIO 3\LAB03.ASM 43 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[203] C:\USERS\VITOR\SISTEMAS EMBARCADOS\LABORATÛRIOS\LABORATÛRIO 3\LAB03.ASM 45 : Found opcode in column 1. (BCF)
+Message[305] C:\USERS\VITOR\SISTEMAS EMBARCADOS\LABORATÛRIOS\LABORATÛRIO 3\LAB03.ASM 81 : Using default destination of 1 (file).
